@@ -1,1 +1,2 @@
-Setting up locally the DB and the answer is at the text file
+The answer is in the answers.txt
+And data model is in postgresql ddl in data_model.sql
